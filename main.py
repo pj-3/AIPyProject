@@ -83,7 +83,7 @@ def recognize_text(image_path):
 
 if __name__ == '__main__':
     # 图片路径
-    image_path = 'C:/Users/86191/Desktop/p479558.png'
+    image_path = '.\images\p479558.png'
     
     # 进行文字识别
     text = recognize_text(image_path)
